@@ -929,7 +929,7 @@ class _EmpHomeState extends State<EmpHome> {
                                                                           (
                                                                             context,
                                                                           ) =>
-                                                                              Attendancerep(),
+                                                                              EmpAttdetail(),
                                                                     ),
                                                                   ),
                                                               child: Icon(
